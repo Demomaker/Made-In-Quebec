@@ -1,0 +1,1 @@
+python generateReadMe.py repositories.txt README.md
