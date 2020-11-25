@@ -2,7 +2,7 @@
 ## FR 
 Montre ce qui est fait au Québec.
 Output de https://github.com/IonicaBizau/made-in 
-| Nom d'utilisateur | Nombre de r�pertoires |
+| Nom d'utilisateur | Nombre de répertoires |
 |:---:|:---:|
 | [AdrianoFerrari](https://github.com/AdrianoFerrari) | 1 |
 | [ArnaudBuchholz](https://github.com/ArnaudBuchholz) | 5 |
